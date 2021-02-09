@@ -1,3 +1,7 @@
-h1.title {
-  color: red !important;
+.start-dates {
+display:none !important;
+}
+
+#date-and-time {
+display:none !important;
 }
